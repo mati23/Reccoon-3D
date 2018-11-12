@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [pub.devrel:easypermissions:0.2.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.0.aar/a7d3e90c52fa4d5c06a8706d5e73314c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3f6e251062a0a1022c36e2f6d158e27/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arruda/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1d43c1b0aab58abb0540609e107f7e8e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/dc2bd905d99c5a591b13e2dffdf3f04b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c2759aca78a4f3ec0e250eceab2919e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/13e48bae627815cb13cda23911034767/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/422eba913b430c6fcffe7d37bb27129f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/aa1f16b9027c429d0e3a36083206dac1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f300388ea965e3d956aa0fa9b3a65eb0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/08489fbbddfe1370889703fec077154d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/127572aa829fb1d2fdfc8a6868c36e07/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9aa468105fdb9ab3cf432cd5281b6d4d/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:4:5-64
+	android:name
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:4:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:5:5-84
+	android:required
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:5:58-82
+	android:name
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:5:19-57
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:12:5-28:19
+MERGED from [pub.devrel:easypermissions:0.2.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.0.aar/a7d3e90c52fa4d5c06a8706d5e73314c/AndroidManifest.xml:12:5-20
+MERGED from [pub.devrel:easypermissions:0.2.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.0.aar/a7d3e90c52fa4d5c06a8706d5e73314c/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3f6e251062a0a1022c36e2f6d158e27/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3f6e251062a0a1022c36e2f6d158e27/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arruda/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1d43c1b0aab58abb0540609e107f7e8e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arruda/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1d43c1b0aab58abb0540609e107f7e8e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/dc2bd905d99c5a591b13e2dffdf3f04b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/dc2bd905d99c5a591b13e2dffdf3f04b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c2759aca78a4f3ec0e250eceab2919e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c2759aca78a4f3ec0e250eceab2919e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/13e48bae627815cb13cda23911034767/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/13e48bae627815cb13cda23911034767/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/422eba913b430c6fcffe7d37bb27129f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/422eba913b430c6fcffe7d37bb27129f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/aa1f16b9027c429d0e3a36083206dac1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/aa1f16b9027c429d0e3a36083206dac1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f300388ea965e3d956aa0fa9b3a65eb0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f300388ea965e3d956aa0fa9b3a65eb0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/08489fbbddfe1370889703fec077154d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/08489fbbddfe1370889703fec077154d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/127572aa829fb1d2fdfc8a6868c36e07/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/127572aa829fb1d2fdfc8a6868c36e07/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9aa468105fdb9ab3cf432cd5281b6d4d/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9aa468105fdb9ab3cf432cd5281b6d4d/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:17:9-41
+	android:hardwareAccelerated
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:14:9-44
+	android:roundIcon
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:18:9-54
+	android:largeHeap
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:15:9-33
+	android:icon
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:20:9-40
+activity#com.example.arruda.reccoon3d.MainActivity
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:21:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+MERGED from [pub.devrel:easypermissions:0.2.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.0.aar/a7d3e90c52fa4d5c06a8706d5e73314c/AndroidManifest.xml:8:5-10:41
+MERGED from [pub.devrel:easypermissions:0.2.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.0.aar/a7d3e90c52fa4d5c06a8706d5e73314c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3f6e251062a0a1022c36e2f6d158e27/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3f6e251062a0a1022c36e2f6d158e27/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arruda/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1d43c1b0aab58abb0540609e107f7e8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arruda/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1d43c1b0aab58abb0540609e107f7e8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/dc2bd905d99c5a591b13e2dffdf3f04b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/dc2bd905d99c5a591b13e2dffdf3f04b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c2759aca78a4f3ec0e250eceab2919e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c2759aca78a4f3ec0e250eceab2919e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/13e48bae627815cb13cda23911034767/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/13e48bae627815cb13cda23911034767/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/422eba913b430c6fcffe7d37bb27129f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/422eba913b430c6fcffe7d37bb27129f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/aa1f16b9027c429d0e3a36083206dac1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/aa1f16b9027c429d0e3a36083206dac1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f300388ea965e3d956aa0fa9b3a65eb0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f300388ea965e3d956aa0fa9b3a65eb0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/08489fbbddfe1370889703fec077154d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/08489fbbddfe1370889703fec077154d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/127572aa829fb1d2fdfc8a6868c36e07/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/127572aa829fb1d2fdfc8a6868c36e07/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9aa468105fdb9ab3cf432cd5281b6d4d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9aa468105fdb9ab3cf432cd5281b6d4d/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3f6e251062a0a1022c36e2f6d158e27/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+		ADDED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arruda/AndroidStudioProjects/Reccoon3D/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3f6e251062a0a1022c36e2f6d158e27/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/dc2bd905d99c5a591b13e2dffdf3f04b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/dc2bd905d99c5a591b13e2dffdf3f04b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c2759aca78a4f3ec0e250eceab2919e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/9c2759aca78a4f3ec0e250eceab2919e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/13e48bae627815cb13cda23911034767/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/13e48bae627815cb13cda23911034767/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/422eba913b430c6fcffe7d37bb27129f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/422eba913b430c6fcffe7d37bb27129f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/aa1f16b9027c429d0e3a36083206dac1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/aa1f16b9027c429d0e3a36083206dac1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f300388ea965e3d956aa0fa9b3a65eb0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f300388ea965e3d956aa0fa9b3a65eb0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/08489fbbddfe1370889703fec077154d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/08489fbbddfe1370889703fec077154d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/127572aa829fb1d2fdfc8a6868c36e07/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/127572aa829fb1d2fdfc8a6868c36e07/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3f6e251062a0a1022c36e2f6d158e27/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3f6e251062a0a1022c36e2f6d158e27/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9aa468105fdb9ab3cf432cd5281b6d4d/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9aa468105fdb9ab3cf432cd5281b6d4d/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/arruda/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9aa468105fdb9ab3cf432cd5281b6d4d/AndroidManifest.xml:26:13-58

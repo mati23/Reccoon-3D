@@ -1,0 +1,4 @@
+#Sat Feb 03 10:51:47 BRT 2018
+base.0=/home/arruda/AndroidStudioProjects/Reccoon3D/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
